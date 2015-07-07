@@ -1,0 +1,14 @@
+[Project]
+FileName=C:\bmput\Viewer\Viewer.dev
+Name=Viewer
+Use_gpp=1
+UnitCount=1
+ResFiles=C:\bmput\Viewer\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\DEV-C++\Bin\Mainicon.ico
+
+[Unit1]
+FileName=C:\bmput\Viewer\loadbmp.cpp
+FileTime=775385650
+
